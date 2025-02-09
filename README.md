@@ -2,7 +2,7 @@
 
 A Python script that scrapes IAM service tables from AWS documentation and converts them to markdown format.
 
-I really don't know what I'm going in Python.
+I really don't know what I'm doing in Python.
 
 ## Setup
 
